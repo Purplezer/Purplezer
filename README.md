@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-# ![Purplezer]()
+# ![Purplezer](https://github.com/Purplezer/Purplezer/blob/main/HTML5_logo_and_wordmark.svg.png)

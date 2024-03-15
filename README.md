@@ -1,8 +1,9 @@
 # Welcome here ! 👋
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About me 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hello, I'm Do Alexandre, a second-year student in Computer Science and Development, with a passion for cybersecurity. Motivated and hardworking, I am dedicated to pursuing excellence in my field.
 <!--
 **Purplezer/Purplezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

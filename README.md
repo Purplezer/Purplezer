@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## Skills & Expertise
 
-# ![image](https://github.com/Purplezer/Purplezer/blob/main/icons8-html-5.svg)
+# ![image](https://github.com/Purplezer/Purplezer/blob/main/icons8-html-5.svg) ![image](https://github.com/Purplezer/Purplezer/blob/main/icons8-javascript.gif) ![image](https://github.com/Purplezer/Purplezer/blob/main/icons8-react-a-javascript-library-for-building-user-interfaces-48.png)

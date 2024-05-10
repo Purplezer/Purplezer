@@ -8,15 +8,16 @@
 🔭 With a keen eye for detail, I excel in troubleshooting and resolving complex issues independently.   
 🥇 My next goal is to further my expertise in cybersecurity, recognizing its paramount importance in today's digital landscape for safeguarding data and minimizing risks effectively.
 
-Skills & Techs
-Verified
+## Skills & Techs
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,css,debian,docker,bots,express,figma,git,github,gitlab,html,js,jquery,linux,mysql,nginx,nodejs,npm,php,phpstorm,postman,powershell,py,react,regex,sublime,ubuntu,unity,vim,visualstudio,vscode,windows,yarn&perline=14" />
   </a>
 </p>
 
-Working and learning on
+## Working and learning on
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ansible,aws,github,linux,powershell,ubuntu,kali,kubernetes,debian,docker,wordpress&perline=14" />
